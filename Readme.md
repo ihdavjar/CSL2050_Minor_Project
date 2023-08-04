@@ -4,7 +4,9 @@ HELP International has been able to raise around $ 10 million. The CEO of this N
 We are given data from 167 countries and based on this data, we have to decide which country is in immediate need of money.
 
 ## Machine Learning Pipeline
-<img width="562" alt="image22" src="https://github.com/ihdavjar/CSL2050_Minor_Project/assets/95899338/62bc558e-7ecd-4fc7-a6c6-d929b0834f0a">
+<p align="center">
+   <img width="562" alt="image22" src="https://github.com/ihdavjar/CSL2050_Minor_Project/assets/95899338/62bc558e-7ecd-4fc7-a6c6-d929b0834f0a">
+</p>
 
 ## Result and Discussion
 Current problem is a clustering problem. Several clustering algorithms were imployed on PCA data and the original data and their outputs were compared. It was evident that PCA doesn't bring any notable changes to the clustering problem.
