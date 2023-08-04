@@ -9,5 +9,6 @@ We are given data from 167 countries and based on this data, we have to decide w
 ## Result and Discussion
 Current problem is a clustering problem. Several clustering algorithms were imployed on PCA data and the original data and their outputs were compared. It was evident that PCA doesn't bring any notable changes to the clustering problem.
 
-&rarr; Report.pdf contains the detailed explaination of this project along with various visualisation.
-&rarr; minor_project.ipynb is the implementation of the above discussed clustering.
+&rarr; [Report.pdf](https://github.com/ihdavjar/CSL2050_Minor_Project/blob/b9b0829c6594c0f99f119708bcacf8a74df04473/Report.pdf) contains detailed explaination of this project along with various visualisation.
+
+&rarr; [minor_project.ipynb](https://github.com/ihdavjar/CSL2050_Minor_Project/blob/b9b0829c6594c0f99f119708bcacf8a74df04473/minor_project.ipynb) contains the implementation of the above discussed clustering.
